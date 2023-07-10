@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@_koi/web3.js": "^0.0.6"
+    "@_koi/web3.js": "^0.0.6",
+    "bs58": "^5.0.0"
   }
 }
